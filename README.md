@@ -1,18 +1,10 @@
 IOg3
 ====
 
-# Kilka prostych elementów MarkDown-a
+# Inżynieria Oprogramowania - *grupa 3*
 
-Inżynieria Oprogramowania - *grupa* 3 - pismo _pochyłe_ i **pogrubione**.
+## Pliki projektu "Platforma Informacyjna"
 
-## To jest nagłówek 2 poziomu
-
-1. Ala
-2. ma
-3. kota
-   * burego
-   * w szare paski
-
-### A teraz trzeci poziom
-
-Link do mojego [repozytorium](https://github.com/AndyB66/IOg3).
+1. PI.pod - plik w formacie *OpenProj*
+2. PI.pdf - wydruk wykresu Gantta dla projektu z programu *OpenProj*
+3. PI.xml - eksport projektu z *OpenProj*-a do formatu XML (do zaimportowania do *Microsoft Project*-a)
