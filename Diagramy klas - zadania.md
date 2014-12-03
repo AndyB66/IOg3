@@ -12,4 +12,4 @@ spośród nauczycieli, datę, kwotę przeznaczoną na nagrody itp. Uczniowie ucz
 jeden hotel na wszystkie wycieczki, ponadto do każdego hotelu jest także przypisany pracownik działu socjalnego odpowiedzialny za grupę wycieczkowiczów
 w nim zakwaterowanych, tzw. rezydent). Koszt danej wycieczki dla jej uczestnika uzależniony jest od poziomu dofinasowania z budżetu socjalnego firmy.
 
-**Jakie metody mógłbyś zaproponować dla zaprojektowanych przez siebie klas?**
+**Jakie metody mogłabyś/mógłbyś zaproponować dla zaprojektowanych przez siebie klas?**
